@@ -1,0 +1,4 @@
+--Revising the Select Query - 1
+
+SELECT * from CITY
+WHERE countrycode LIKE "USA" AND population > 100000;
